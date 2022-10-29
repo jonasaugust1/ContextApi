@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": 1
+    },
+    {
+      "imagem": 7,
+      "texto": "Sofá confortavel",
+      "preco": 250,
+      "id": 2
+    }
+  ]
+}
